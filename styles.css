@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(55, 15, 156, 0.77);
+}
+img{
+    width: 200px;
+}
+label,input{
+    padding: 10px;
+    margin: 5px;
+}
+button{
+    width: 320px;
+    height: 30px;
+    background-color: #3636e3;
+    color: white;
+}
